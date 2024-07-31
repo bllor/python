@@ -1,0 +1,8 @@
+# a , b= map(int, input().split(','))
+# a = input()
+# c,d = map(int, input().split(' '))
+e = int(input())
+print(type(e))
+# print(int(a)-2541+1998)
+# print(a-2541+1998)
+# print(a+b+c)
